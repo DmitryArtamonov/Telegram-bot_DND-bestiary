@@ -1,0 +1,7 @@
+Dima Artamonov
+This is an impressive project! The structure of the code is commendable and incorporates all the concepts that we have covered during the course up to week 4. Your use of multiple models while maintaining simplicity and clarity is noteworthy.
+However, one suggestion would be to explore the use of decorators in order to enhance the Pythonic nature of your code.
+Python OOP: 10/10
+Databases: 10/10
+API/Jason: 10/10
+General score: 10
